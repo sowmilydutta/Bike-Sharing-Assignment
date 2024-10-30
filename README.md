@@ -3,7 +3,7 @@
 > Develop a multiple linear regression model to predict demand for shared bikes. This model will help BoomBikes, a U.S.-based bike-sharing provider, analyze demand factors and adapt its business strategy to increase profitability in the post-COVID market.
 
 > **Context:**  
-> BoomBikes has experienced revenue declines due to the COVID-19 pandemic. To prepare for increased demand as restrictions lift, the company has collected data on daily bike usage influenced by various factors.  Understanding which variables most impact demand will enable BoomBikes to stand out among competitors by better meeting customer needs.
+> BoomBikes has experienced revenue declines due to the COVID-19 pandemic. To prepare for increased demand as restrictions lift, the company has collected data on daily bike usage influenced by various factors.  Understanding which variables most impact demand, will enable BoomBikes to stand out among competitors by meeting customer needs.
 
 > **Goal:**  
 > Analyze significant factors affecting bike demand and determine how well these variables predict demand. This insight will allow BoomBikes to fine-tune its strategies to better serve emerging demand trends and efficiently enter new markets.
