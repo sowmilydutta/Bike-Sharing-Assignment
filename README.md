@@ -1,4 +1,4 @@
-# BoomBikes - Bike Sharing Assignment
+# UpGrad: BoomBikes - Bike Sharing Assignment
 > **Objective:**  
 > Develop a multiple linear regression model to predict demand for shared bikes. This model will help BoomBikes, a U.S.-based bike-sharing provider, analyze demand factors and adapt its business strategy to increase profitability in the post-COVID market.
 
