@@ -64,7 +64,7 @@
 >    - **Business Implication**: To counter lower demand on holidays, BoomBikes could offer promotions, such as discounted rates on holidays, to encourage usage.
 > 
 > 3. **Temperature (`temp`) - 0.5378**  
->   - High positive impact, showing demand significantly increases with temperature.
+>    - High positive impact, showing demand significantly increases with temperature.
 >    - **Business Implication**: Marketing and maintenance resources should focus on peak seasons with favorable temperatures to maximize profitability and availability of bikes.
 > 
 > 4. **Humidity (`hum`) - -0.2227**  
